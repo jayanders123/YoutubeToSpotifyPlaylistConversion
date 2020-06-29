@@ -1,7 +1,7 @@
 # YoutubeToSpotifyPlaylistConversion
 This application converts a chosen youtube playlist into a spotify playlist
 
-So far only the following functions are fleshed out and fully functional:
+So far, only the following functions are fleshed out and fully functional in the main program file (CreatePlaylist.py):
 
      * get_youtube_videos()
      * create_spotify_playlist()
