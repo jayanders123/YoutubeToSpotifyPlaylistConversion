@@ -37,7 +37,6 @@ class CreatePlaylist:
             part="contentDetails",
             playlistId= playlist
         )
-        pdb.set_trace()
         response = request.execute()
         return response
 
