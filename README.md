@@ -23,9 +23,8 @@ Before being able to run the program you will need to populate the secrets in th
 
 * client_secret_template (Secrets file containing google/youtubes credentials)
 * spotify_secrets_template (Secrest file containing spotify secrets)
-
 <br>
-
+<br>
 ####Follow the guides below for indepth instructions as to how to get Spotify and Youtube Credentials:
 
 1. Spotify Only needs Username & Bearer Token - [Oauth Portal](https://developer.spotify.com/console/post-playlists/)
