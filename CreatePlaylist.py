@@ -10,7 +10,7 @@ import youtube_dl
 from spotify_secrets import SPOTIFY_USER_ID,spotify_token
 
 class CreatePlaylist:
-    youtube_playlist_id = "PLk0vAs4YY3u_tlo96dpuVeHb9oex3a1NJ"
+    youtube_playlist_id = "" #Place the playlist id here for the playlist you want to be converted to spotify.
     all_youtube_song_info = {}
 
     def _init_(self):
